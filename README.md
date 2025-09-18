@@ -43,7 +43,7 @@ track their performance using **MLflow**, and register the best model for deploy
 
 ## Run Project
 ```bash
-git clone https://github.com/<your-username>/mlops-assignment-1.git
+git clone https://github.com/Abdul-Basit5/mlops-assignment-1.git
 cd mlops-assignment-1
 pip install -r requirements.txt
 mlflow ui
