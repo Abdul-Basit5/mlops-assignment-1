@@ -26,7 +26,7 @@ track their performance using **MLflow**, and register the best model for deploy
 ## Models & Results
 | Model                | Accuracy | Precision | Recall | F1-Score |
 |-----------------------|----------|-----------|--------|----------|
-| Logistic Regression   | 0.90     | 0.90      | 0.90   | 0.90     |
+| Logistic Regression   | 0.93     | 0.93      | 0.93   | 0.93     |
 | Random Forest         | 0.90     | 0.90      | 0.90   | 0.90     |
 | SVM                   | 0.86     | 0.86      | 0.86   | 0.86     |
 
