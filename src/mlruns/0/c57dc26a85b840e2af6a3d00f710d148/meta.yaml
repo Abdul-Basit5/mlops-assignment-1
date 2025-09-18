@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/mlops-assignment-1/src/mlruns/0/c57dc26a85b840e2af6a3d00f710d148/artifacts
+end_time: 1758048679233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c57dc26a85b840e2af6a3d00f710d148
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758048671565
+status: 3
+tags: []
+user_id: Asad

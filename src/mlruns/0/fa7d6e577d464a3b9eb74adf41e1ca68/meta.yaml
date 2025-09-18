@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/mlops-assignment-1/src/mlruns/0/fa7d6e577d464a3b9eb74adf41e1ca68/artifacts
+end_time: 1758048671547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa7d6e577d464a3b9eb74adf41e1ca68
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758048664053
+status: 3
+tags: []
+user_id: Asad

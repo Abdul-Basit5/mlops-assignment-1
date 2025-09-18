@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOps/mlops-assignment-1/src/mlruns/0/f14b3efc339a4b4abc407b0ff5b29ce8/artifacts
+end_time: 1758048664032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f14b3efc339a4b4abc407b0ff5b29ce8
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758048655509
+status: 3
+tags: []
+user_id: Asad

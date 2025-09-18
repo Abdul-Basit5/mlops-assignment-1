@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871670144016996792/a4e40b1e985649b0813a32892a5f4df3/artifacts
+end_time: 1758209437924
+entry_point_name: ''
+experiment_id: '871670144016996792'
+lifecycle_stage: active
+run_id: a4e40b1e985649b0813a32892a5f4df3
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758209427830
+status: 3
+tags: []
+user_id: Asad

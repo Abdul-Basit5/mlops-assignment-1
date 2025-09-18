@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MLOps/mlops-assignment-1/src/mlruns/0/models/m-fbafab1cf3f2465c93afda1ce61097bc/artifacts
+creation_timestamp: 1758049016903
+experiment_id: '0'
+last_updated_timestamp: 1758049024825
+model_id: m-fbafab1cf3f2465c93afda1ce61097bc
+model_type: null
+name: SVM
+source_run_id: a6c6cd2648354abaa10287e13b00f29b
+status: 2
+status_message: null

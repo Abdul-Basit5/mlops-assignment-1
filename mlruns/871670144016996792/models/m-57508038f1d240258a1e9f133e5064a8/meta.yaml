@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/871670144016996792/models/m-57508038f1d240258a1e9f133e5064a8/artifacts
+creation_timestamp: 1758209438349
+experiment_id: '871670144016996792'
+last_updated_timestamp: 1758209444744
+model_id: m-57508038f1d240258a1e9f133e5064a8
+model_type: ''
+name: SVM
+source_run_id: 3d71fa9e32bb4b999397898e048e0034
+status: 2
+status_message: null

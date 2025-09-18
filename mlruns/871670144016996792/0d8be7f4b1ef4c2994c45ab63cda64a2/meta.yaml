@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/871670144016996792/0d8be7f4b1ef4c2994c45ab63cda64a2/artifacts
+end_time: 1758049617300
+entry_point_name: ''
+experiment_id: '871670144016996792'
+lifecycle_stage: active
+run_id: 0d8be7f4b1ef4c2994c45ab63cda64a2
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758049605221
+status: 3
+tags: []
+user_id: Asad
